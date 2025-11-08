@@ -3,21 +3,16 @@
 
 
 
-Perfecto, Marco Julio 🌎.
-A continuación te presento la **secuencia temática o conceptual** del curso **“Introducción al lenguaje Python para formar en ciencia de datos con técnicas de Machine Learning y Deep Learning”**, diseñada especialmente para **Administración de Empresas**, con una estructura progresiva que conecta la **programación**, la **analítica de datos** y la **toma de decisiones empresariales basadas en datos**.
 
----
 
-## 🧩 SECUENCIA TEMÁTICA O CONCEPTUAL
-
-### *Curso: Introducción al lenguaje Python para formar en ciencia de datos con técnicas de Machine Learning y Deep Learning*
+# *Curso: Introducción al lenguaje Python para formar en ciencia de datos con técnicas de Machine Learning y Deep Learning*
 
 **Programa:** Administración de Empresas
 **Duración sugerida:** 4 a 5 semanas (módulo introductorio dentro de la línea de analítica de datos)
 
 ---
 
-### 🔹 **UNIDAD 1. Pensamiento computacional y fundamentos del lenguaje Python**
+# **UNIDAD 1. Pensamiento computacional y fundamentos del lenguaje Python**
 
 **Propósito:** Comprender el papel del pensamiento computacional en la administración moderna y familiarizarse con la lógica y sintaxis básica de Python.
 
@@ -41,7 +36,7 @@ Primer script en Python que calcule indicadores financieros básicos (margen de 
 
 ---
 
-### 🔹 **UNIDAD 2. Python para el análisis y la visualización de datos**
+# **UNIDAD 2. Python para el análisis y la visualización de datos**
 
 **Propósito:** Aplicar Python para la manipulación, organización y visualización de información relevante para la toma de decisiones empresariales.
 
@@ -65,7 +60,7 @@ Cuaderno Jupyter con análisis descriptivo y visualización de indicadores de ve
 
 ---
 
-### 🔹 **UNIDAD 3. Introducción al aprendizaje automático (Machine Learning)**
+# **UNIDAD 3. Introducción al aprendizaje automático (Machine Learning)**
 
 **Propósito:** Comprender los fundamentos del aprendizaje automático y aplicarlos a casos empresariales simples.
 
@@ -90,7 +85,7 @@ Modelo de regresión lineal aplicado a datos de inversión publicitaria y ventas
 
 ---
 
-### 🔹 **UNIDAD 4. Introducción al Deep Learning y redes neuronales**
+# **UNIDAD 4. Introducción al Deep Learning y redes neuronales**
 
 **Propósito:** Conocer los principios básicos del Deep Learning y su aplicación al análisis de datos empresariales más complejos.
 
@@ -115,7 +110,7 @@ Modelo de red neuronal simple para clasificar clientes o predecir satisfacción.
 
 ---
 
-### 🔹 **UNIDAD 5. Proyecto integrador: Ciencia de datos aplicada a la administración**
+# **UNIDAD 5. Proyecto integrador: Ciencia de datos aplicada a la administración**
 
 **Propósito:** Integrar los conocimientos del curso en un proyecto aplicado a la realidad empresarial.
 
@@ -134,7 +129,7 @@ Proyecto completo publicado en GitHub y video explicativo en YouTube:
 
 ---
 
-### 💡 **Secuencia conceptual transversal**
+# **Secuencia conceptual transversal**
 
 | Eje conceptual                 | Conceptos nucleares                    | Conexión con la administración                       |
 | ------------------------------ | -------------------------------------- | ---------------------------------------------------- |
@@ -145,7 +140,3 @@ Proyecto completo publicado en GitHub y video explicativo en YouTube:
 | **Deep Learning**              | Neuronas, capas, redes                 | Análisis de textos, satisfacción del cliente         |
 | **Comunicación de resultados** | Visualización, interpretación, reporte | Presentación ejecutiva de hallazgos basados en datos |
 
----
-
-¿Deseas que te la organice en una **tabla de planeación académica** (con columnas: unidad, conceptos, competencias, actividades y recursos)?
-Sería el formato ideal para subir al plan de curso o al aula virtual de la universidad.
